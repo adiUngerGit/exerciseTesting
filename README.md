@@ -1,5 +1,5 @@
 # exerciseTesting
-Receives a folder with student folders and returns an Excel file with the students' scores according to the desired and available output
+The program receives documents, checks the suitability of the document for certain requirements, and sets scores for each document. Then, the program using an Excel file to grade the rating of each document.
 
 ## Instructions
 make a file with:
